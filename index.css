@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #200820;
+    text-align: center;
+}
+
+.container {
+    background-color: azure;
+    border: 2px solid #ccc;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
